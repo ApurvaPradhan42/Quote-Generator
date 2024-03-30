@@ -1,2 +1,1 @@
-# Quote-Generator
-A simple Quote generator 
+![screenshot(./assets/Screenshot_30-Mar_11-54-17_15410.png)
